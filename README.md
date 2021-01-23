@@ -1,1 +1,1 @@
-Welcome to OTrading!
+<h1>Welcome to OTrading!</h1>
