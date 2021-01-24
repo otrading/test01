@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">otrading</string>
+    <string name="title_activity_main">otrading</string>
+    <string name="package_name">otrading.netlify.app</string>
+    <string name="custom_url_scheme">otrading.netlify.app</string>
+</resources>

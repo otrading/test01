@@ -1,0 +1,13 @@
+{
+  "appId": "otrading.netlify.app",
+  "appName": "otrading",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
